@@ -1,0 +1,2 @@
+include ':finchFramework'
+include ':finchVideo'
